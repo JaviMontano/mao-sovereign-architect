@@ -1,0 +1,19 @@
+{
+  "name": "sovereign-architect",
+  "version": "4.0.0",
+  "description": "SA — Sovereign Architect. Evidence-based technical leadership for codebase analysis, architecture design, implementation planning, and quality assurance. 66 agents, 128 skills, 120 commands.",
+  "author": {
+    "name": "Javier Montaño Guzmán",
+    "email": "javier.montano@sofka.com.co",
+    "url": "https://sofka.com.co"
+  },
+  "license": "All Rights Reserved",
+  "keywords": [
+    "architecture",
+    "implementation",
+    "technical-leadership",
+    "code-analysis",
+    "quality-assurance",
+    "sofka"
+  ]
+}
